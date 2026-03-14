@@ -26,3 +26,4 @@
 /Users/eftekheraliefte2000/workspace/dotnetfirst/GamingSolution.api/obj/Debug/net10.0/GamingSolution.api.pdb
 /Users/eftekheraliefte2000/workspace/dotnetfirst/GamingSolution.api/obj/Debug/net10.0/GamingSolution.api.genruntimeconfig.cache
 /Users/eftekheraliefte2000/workspace/dotnetfirst/GamingSolution.api/obj/Debug/net10.0/ref/GamingSolution.api.dll
+/Users/eftekheraliefte2000/workspace/dotnetfirst/GamingSolution.api/obj/Debug/net10.0/GamingSolution.api.sourcelink.json
