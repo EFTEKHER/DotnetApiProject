@@ -1,0 +1,33 @@
+GET  http://localhost:5243/games
+
+###
+GET  http://localhost:5243/games/55
+
+###
+
+POST http://localhost:5243/games
+Content-Type: application/json
+
+{
+    "name":"GTA 5",
+    "genre":"Action",
+    "price":59.99,
+    "releaseDate":"2023-10-20"
+}
+
+###
+
+PUT http://localhost:5243/games/2
+Content-Type: application/json
+
+{
+    
+    "name": "Street Fighter ii",
+    "genre": "Fighting",
+    "price": 29.99,
+    "releaseDate": "1972-07-15"
+  }
+###
+DELETE  http://localhost:5243/games/4
+
+
